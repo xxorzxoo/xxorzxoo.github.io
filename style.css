@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+	outline:0;
+}
+.container{
+	height: 100vh;
+	width: 100vw;
+	text-align:center;
+	color:#333;
+	background: beige;
+
+}
+.love,.yes,.no{padding-top: 5%; padding-bottom: 5%;
+		
+		}
+.love span{color:red;}
+h2{font-size: 30px; margin-bottom: 50px; color: rosybrown;}
+h3{margin-bottom: 50px; color: rosybrown;}
+
+a{font-size: 24px;text-decoration: none;padding: 5px 10px;
+	margin-top: 500px; border:3px solid #ddd; border-radius: 10px;}
+#no{color:rosybrown; background: #eee;margin-right: 50px;}
+#yes{color:rosybrown;background: #eee;}
+img{margin-top: 50px; height: 50px; width: 50px;}
+
+.yes
+h3{font-size: 20px; margin-bottom: 30px; color: rosybrown;}
+h4{font-size: 25px; margin-bottom: 30px; color: rosybrown;}
+h5{font-size: 20px; margin-bottom: 30px; color: rosybrown;}
+h6{font-size: 20px; margin-bottom: 30px; color: rosybrown;}
+h7{font-size: 20px; margin-bottom: 80px; color: rosybrown; font-weight: bold;}
+h8{margin-bottom: 50px; font-size: 15px; color: rosybrown; font-weight: bold;}
+a{font-size: 20px;text-decoration: none;padding: 5px 10px;
+	 border:3px solid #ddd; border-radius: 10px;}
+#yes{color:rosybrown;background: #eee;}
+
+
+@keyframes image{
+	0%{transform: scale(.5);}
+	50%{transform: scale(.5);}
+	100%{transform: scale(.5);}
+}
